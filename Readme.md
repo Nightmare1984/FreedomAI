@@ -1,19 +1,7 @@
 # FreedomAI
-This is the offical repository for the FreedomGPT application. It is built using [Electron](https://www.electronjs.org/) and [React](https://reactjs.org/) and allows users to run LLM models on their local machine.
+This is the offical repository for the FreedomAI Will have It's Own application For Now Using FreedomGPT application for right now
 
 ![GitHub license](https://img.shields.io/badge/license-GNU-blue.svg)
-
-![GitHub release](https://img.shields.io/github/release/ohmplatform/freedom-gpt-electron-app.svg)
-
-![GitHub stars](https://img.shields.io/github/stars/ohmplatform/freedom-gpt-electron-app.svg)
-
-![GitHub All Releases](https://img.shields.io/github/downloads/ohmplatform/freedom-gpt-electron-app/total.svg)
-
-# Join our Discord Community
-Join our Discord server to get the latest updates and to interact with the community.
-
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/h77wvJS4ga)
-
 
 # How to Contribute
 
