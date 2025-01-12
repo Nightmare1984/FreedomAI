@@ -1,4 +1,4 @@
-# FreedomGPT
+# FreedomAI
 This is the offical repository for the FreedomGPT application. It is built using [Electron](https://www.electronjs.org/) and [React](https://reactjs.org/) and allows users to run LLM models on their local machine.
 
 ![GitHub license](https://img.shields.io/badge/license-GNU-blue.svg)
