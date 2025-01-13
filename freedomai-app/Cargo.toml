@@ -4,4 +4,4 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-gtk = { version = "0.18.2", features = ["v4_0"] }
+gtk = { version = "0.18.0", features = ["v4_0"] }
