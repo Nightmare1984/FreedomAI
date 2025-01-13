@@ -1,8 +1,9 @@
 use gtk::prelude::*;
+use gtk::init;
 
 fn main() {
     // Initialize GTK
-    gtk::prelude::init();
+    init();
 
     // Create a window
     let window = gtk::Window::new(gtk::WindowType::Toplevel);
@@ -24,3 +25,4 @@ fn main() {
     // Run the GTK main loop
     gtk::main();
 }
+
