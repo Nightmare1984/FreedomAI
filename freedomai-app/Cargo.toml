@@ -1,7 +1,15 @@
 [package]
-name = "freedomai-app"
+name = "freedomai"
 version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-gtk = "0.14.0"
+gtk = "0.16.0"
+
+[lib]
+name = "freedomai"
+path = "src/lib.rs"
+crate-type = ["cdylib"]
+
+[build-dependencies]
+cc = "1.0.73"
